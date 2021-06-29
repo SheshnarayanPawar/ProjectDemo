@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vilas Pawar Barshi office
+=======
+ Solapur mseb
+>>>>>>> master
